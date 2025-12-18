@@ -1,3 +1,7 @@
+
+Life cycle of machine learning project
+
+
 1.problem identification
 2.business understanding
 3.collecting data
@@ -9,9 +13,4 @@
 9.model deployment
 
 
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/dilshandevxx/fitness-cost-calculator-ml-regression-project.git
-git push -u origin main
+ 
